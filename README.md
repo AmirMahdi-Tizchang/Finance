@@ -78,4 +78,6 @@ finance/
 
 MIT License. See [LICENSE](LICENSE) for details.
 
+## Contact
 
+AmirMahdi Tizchang – [GitHub](https://github.com/AmirMahdi-Tizchang)
